@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dark Raider", "Assembly-CSharp-firstpass.csproj", "{C78BD620-3EB1-AE34-8AAD-A4CA3A9B5C3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dark Raider", "Assembly-CSharp.csproj", "{69E2D700-C854-5D6C-48C1-E24D9DD2E433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dark Raider", "Assembly-CSharp-Editor.csproj", "{27FA810D-F64A-A212-7388-AC7959B954B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C78BD620-3EB1-AE34-8AAD-A4CA3A9B5C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78BD620-3EB1-AE34-8AAD-A4CA3A9B5C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78BD620-3EB1-AE34-8AAD-A4CA3A9B5C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78BD620-3EB1-AE34-8AAD-A4CA3A9B5C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E2D700-C854-5D6C-48C1-E24D9DD2E433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E2D700-C854-5D6C-48C1-E24D9DD2E433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E2D700-C854-5D6C-48C1-E24D9DD2E433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E2D700-C854-5D6C-48C1-E24D9DD2E433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FA810D-F64A-A212-7388-AC7959B954B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FA810D-F64A-A212-7388-AC7959B954B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FA810D-F64A-A212-7388-AC7959B954B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FA810D-F64A-A212-7388-AC7959B954B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
